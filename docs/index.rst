@@ -14,7 +14,7 @@ To install:
 
 .. code-block:: bash
 
-    pip install agatestats
+    pip install agate-stats
 
 For details on development or supported platforms see the `agate documentation <http://agate.readthedocs.org>`_.
 
